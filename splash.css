@@ -6,6 +6,11 @@
   background-position: center;
 
   color: #FFF;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 #splash h2 {
